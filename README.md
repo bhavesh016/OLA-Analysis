@@ -76,5 +76,5 @@ Open OLA.pbix in Power BI Desktop to explore the dashboard
 
 👤 Author
 
-Pranav Goenka
+Bhavesh Bhaisare
 Aspiring Business Analyst| Data Analyst | SQL | Power BI | Data Analytics
